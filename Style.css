@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/1575ca19e56cb000d7c0331a7b980a499106a2e9/Base.svg);
+    background-image: url(https://raw.githubusercontent.com/NiGhTmArEiOi/Golden-Controller/refs/heads/main/Base.svg);
 }
 
 .ds4.white.disconnected {
