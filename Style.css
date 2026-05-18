@@ -1,0 +1,38 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Base.svg);
+}
+
+.ds4.white.disconnected {
+    background: url(ps4-assets/disconnected.svg);
+}
+
+.ds4.white .trigger {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Triggers.svg);
+}
+
+.ds4.white .bumper {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Bumper.svg);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(ps4-white-assets/touchpad.svg);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Start.svg);
+}
+
+.ds4.white .button {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Dpad.svg);
+}
+
+.ds4.white .stick {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Sticks.svg);
+}
+
+.ds4.white .face {
+    background-image: url(https://github.com/NiGhTmArEiOi/Golden-Controller/blob/main/Dpad.svg);
+}
+
+/*END PS4 White Controller Styling*/
