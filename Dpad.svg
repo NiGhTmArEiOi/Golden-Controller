@@ -6,7 +6,7 @@
    height="104.03"
    viewBox="0 0 178.53 104.03"
    version="1.1"
-   sodipodi:docname="dpad 1.svg"
+   sodipodi:docname="Dpad.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -38,33 +38,33 @@
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern23"
-       patternTransform="matrix(0.4330127,0.25,-0.25,0.4330127,946.66407,457.29883)"
-       x="1"
-       y="17" />
+       patternTransform="matrix(0.69282032,0.4,-0.4,0.69282032,946.66406,457.29883)"
+       x="5"
+       y="-10" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern22"
-       patternTransform="matrix(0.25,0.43301271,-0.43301271,0.25,946.66407,457.29883)"
-       x="11"
-       y="-6" />
+       patternTransform="matrix(0.4,0.69282032,-0.69282032,0.4,946.66407,457.29883)"
+       x="-15"
+       y="17" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern21"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="11"
-       y="18" />
+       patternTransform="matrix(0.8,0,0,0.8,946.66407,457.29883)"
+       x="6"
+       y="1" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern20"
-       patternTransform="matrix(0.4330127,-0.25,0.25,0.4330127,946.66407,457.29883)"
-       x="-1"
-       y="20" />
+       patternTransform="matrix(0.69282033,-0.4,0.4,0.69282033,946.66407,457.29883)"
+       x="-31"
+       y="-22" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath25">
