@@ -6,7 +6,7 @@
    height="598.97"
    viewBox="0 0 806.2 598.97"
    version="1.1"
-   sodipodi:docname="base 1.svg"
+   sodipodi:docname="Base.svg"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,128 +23,112 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.2671754"
-     inkscape:cx="402.86452"
-     inkscape:cy="299.48499"
+     inkscape:cx="402.86451"
+     inkscape:cy="299.48498"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
+     inkscape:current-layer="g94" />
   <defs
      id="defs39">
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
-       id="pattern200"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="-5"
-       y="-5" />
+       id="pattern2"
+       patternTransform="translate(946.66407,457.29883)"
+       x="-20"
+       y="5" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
-       id="pattern199"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="-5"
-       y="-5" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern198"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="5"
-       y="35" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern197"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="5"
-       y="-10" />
+       id="pattern1"
+       patternTransform="translate(946.66407,457.29883)"
+       x="20"
+       y="5" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern196"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="0"
-       y="0" />
+       patternTransform="rotate(30,-379.99934,1995.1488)"
+       x="20"
+       y="-20" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern195"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="0"
+       patternTransform="rotate(-30,1326.6632,-1537.8499)"
+       x="10"
        y="0" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern186"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="-12"
-       y="25" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern185"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="15"
-       y="25" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern184"
-       patternTransform="matrix(-0.43301264,-0.24999996,0.24999996,-0.43301264,946.66407,457.29883)"
-       x="-5"
-       y="-5" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern183"
-       patternTransform="matrix(0.24999998,-0.43301267,0.43301267,0.24999998,946.66407,457.29883)"
-       x="10"
-       y="6" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern25-8"
-       preserveAspectRatio="xMidYMid"
-       id="pattern182"
-       patternTransform="matrix(0.4330127,0.25,-0.25,0.4330127,946.66407,457.29883)"
-       x="20"
+       patternTransform="matrix(0.7,0,0,0.7,946.66407,457.29883)"
+       x="2"
        y="-11" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
-       id="pattern181"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
+       id="pattern185"
+       patternTransform="matrix(0.7,0,0,0.7,946.66407,457.29883)"
+       x="-2"
+       y="-10" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern25-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern184"
+       patternTransform="matrix(-0.60621778,-0.35,0.35,-0.60621778,946.66407,457.29883)"
+       x="13"
+       y="-20" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern25-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern183"
+       patternTransform="matrix(0.35,-0.60621778,0.60621778,0.35,946.66407,457.29883)"
+       x="21"
+       y="-17" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern25-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern182"
+       patternTransform="matrix(0.60621778,0.35,-0.35,0.60621778,946.66407,457.29883)"
        x="10"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern25-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern181"
+       patternTransform="matrix(0.7,0,0,0.7,946.66407,457.29883)"
+       x="-5"
        y="5" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern174"
-       patternTransform="matrix(0.5,0,0,0.5,946.66407,457.29883)"
-       x="0"
-       y="10" />
+       patternTransform="matrix(1.5,0,0,1.5,946.66407,457.29883)"
+       x="25"
+       y="32" />
     <pattern
        inkscape:collect="always"
        xlink:href="#pattern25-8"
        preserveAspectRatio="xMidYMid"
        id="pattern167"
-       patternTransform="matrix(0.5,0,0,0.5,946.66418,457.29889)"
-       x="0"
-       y="0" />
+       patternTransform="matrix(1.5,0,0,1.5,946.66418,457.29889)"
+       x="63"
+       y="-69" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath166">
@@ -163,7 +147,7 @@
        patternTransform="translate(946.66407,457.29883) scale(0.6)"
        preserveAspectRatio="xMidYMid"
        id="pattern25-8"
-       style="fill:#af7d00"
+       style="fill:#c89632"
        inkscape:label="Tiles 3"
        inkscape:collect="always"
        inkscape:isstock="true">
@@ -587,7 +571,8 @@
          cx="274.8"
          cy="356"
          r="51.5"
-         id="circle42" />
+         id="circle42"
+         style="fill:#ffffff;fill-opacity:1" />
       <path
          class="cls-5"
          d="M607.8,360a76.5,76.5,0,0,0-153,0,13.4,13.4,0,0,0,.1,2c0,.7-.1,1.3-.1,2a76.5,76.5,0,0,0,153,0,13.4,13.4,0,0,0-.1-2A14.08,14.08,0,0,0,607.8,360Z"
@@ -603,7 +588,8 @@
          cx="531.4"
          cy="356"
          r="51.5"
-         id="circle44" />
+         id="circle44"
+         style="fill:#ffffff;fill-opacity:1" />
       <path
          class="cls-6"
          d="M534.8,128a6.57,6.57,0,0,0-6.5-5.6H277.7a6.48,6.48,0,0,0-6.5,5.6,14.77,14.77,0,0,0-.1,2.1V257.5a16.09,16.09,0,0,0,16.1,16.1H518.8a16.09,16.09,0,0,0,16.1-16.1V130.1A7.41,7.41,0,0,0,534.8,128Z"
@@ -634,7 +620,7 @@
          cy="244.8"
          r="94.3"
          id="circle47"
-         style="fill:#e1e1e1;fill-opacity:1" />
+         style="fill:#ffffff;fill-opacity:0" />
       <g
          id="g51"
          style="fill:#000000;fill-opacity:1">
@@ -757,34 +743,36 @@
     <g
        id="g68">
       <g
-         id="g65">
+         id="g65"
+         style="fill:url(#pattern2)">
         <path
            class="cls-11"
            d="M697.2,109.9a2.14,2.14,0,0,0-1.1-1.9c-4.5-2.9-23.4-13.6-51.5-13.6-26.9,0-41.1,5.9-45.1,8a2.2,2.2,0,0,0-1.2,2s9.8-2.9,47.5-2.9S697.2,109.9,697.2,109.9Z"
            transform="translate(0.1 0)"
            id="path64"
-           style="fill:url(#pattern200)" />
+           style="fill:url(#pattern2)" />
         <path
            class="cls-12"
            d="M697.1,116.8h0v-6.9s-13.7-8.4-51.4-8.4-47.5,2.9-47.5,2.9v11h0c7.7-1.3,21.2-2.6,44.1-2.6C670.8,112.9,688.2,115.2,697.1,116.8Z"
            transform="translate(0.1 0)"
            id="path65"
-           style="fill:url(#pattern199)" />
+           style="fill:url(#pattern2)" />
       </g>
       <g
-         id="g67">
+         id="g67"
+         style="fill:url(#pattern1)">
         <path
            class="cls-11"
            d="M108.8,109.9a2.14,2.14,0,0,1,1.1-1.9c4.5-2.9,23.4-13.6,51.5-13.6,26.9,0,41.1,5.9,45.1,8a2.2,2.2,0,0,1,1.2,2s-9.8-2.9-47.5-2.9S108.8,109.9,108.8,109.9Z"
            transform="translate(0.1 0)"
            id="path66"
-           style="fill:url(#pattern198)" />
+           style="fill:url(#pattern1)" />
         <path
            class="cls-12"
            d="M108.9,116.8h0v-6.9s13.7-8.4,51.4-8.4,47.5,2.9,47.5,2.9v11h0c-7.7-1.3-21.2-2.6-44.1-2.6C135.2,112.9,117.8,115.2,108.9,116.8Z"
            transform="translate(0.1 0)"
            id="path67"
-           style="fill:url(#pattern197)" />
+           style="fill:url(#pattern1)" />
       </g>
     </g>
     <g
@@ -985,19 +973,19 @@
            d="M404.1,368.6V355.8a1.33,1.33,0,0,1,.3-1,.57.57,0,0,1,.7-.2c.6.2.9.7.9,1.7v6.9a4.55,4.55,0,0,0,2.1.5,2.77,2.77,0,0,0,1.6-.5c1-.7,1.5-1.9,1.5-3.7a6.49,6.49,0,0,0-1.2-4.3,8.79,8.79,0,0,0-4.1-2.6c-1.3-.4-2.5-.8-3.6-1.1s-2-.5-2.9-.7V363h0v2.7h0v1.7h0v2.5h0v1.5l4.7,1.5v-3.6h0Z"
            transform="translate(0.1 0)"
            id="path91"
-           style="fill:#c89619;fill-opacity:1" />
+           style="fill:#ffc800;fill-opacity:1" />
         <path
            class="cls-20"
            d="M399,367.6l-1.7.6-.9.4-1.6.3-1.5-.2c-.3-.2-.4-.4-.2-.6s.2-.1.3-.2.3-.1.4-.2l1.1-.4,4.1-1.5v-2.7l-1.7.5-5.5,2-1,.4c-1.5.6-2.2,1.2-2.2,1.8.1.8,1,1.5,2.7,1.9a15.21,15.21,0,0,0,4.3.5,20.2,20.2,0,0,0,3.3-.3l.1-2.3Z"
            transform="translate(0.1 0)"
            id="path92"
-           style="fill:#c89619;fill-opacity:1" />
+           style="fill:#ffc800;fill-opacity:1" />
         <path
            class="cls-20"
            d="M414.8,365.3a12.88,12.88,0,0,0-2.5-.6,10.48,10.48,0,0,0-2.5-.1,26.6,26.6,0,0,0-2.8.3,15.25,15.25,0,0,0-2.6.8v2.8l3.9-1.4,1.6-.5,1.1-.3h1.4c.3.1.6.2.7.4s-.2.4-.8.6l-1.4.5-6.5,2.4v2.7l3.5-1.3,6.4-2.3.7-.4c1.5-.5,2.2-1.2,2.2-1.9S416.4,365.8,414.8,365.3Z"
            transform="translate(0.1 0)"
            id="path93"
-           style="fill:#c89619;fill-opacity:1" />
+           style="fill:#ffc800;fill-opacity:1" />
       </g>
     </g>
     <path
@@ -1123,16 +1111,16 @@
          style="fill:url(#pattern174)" />
       <g
          id="g121">
-        <path
-           class="cls-12"
-           d="M530.4,124.3a1.9,1.9,0,0,0-1.9-1.9H277.4a1.9,1.9,0,0,0-1.9,1.9V253.5a15.62,15.62,0,0,0,15.6,15.6H514.9a15.62,15.62,0,0,0,15.6-15.6V130.4Z"
-           transform="translate(0.1 0)"
-           id="path119"
-           style="fill:none;fill-opacity:1" />
         <g
            class="cls-27"
            id="g120"
            style="opacity:0">
+          <path
+             class="cls-12"
+             d="M530.4,124.3a1.9,1.9,0,0,0-1.9-1.9H277.4a1.9,1.9,0,0,0-1.9,1.9V253.5a15.62,15.62,0,0,0,15.6,15.6H514.9a15.62,15.62,0,0,0,15.6-15.6V130.4Z"
+             transform="translate(0.1)"
+             id="path119"
+             style="fill:none;fill-opacity:1" />
           <path
              class="cls-28"
              d="M275.5,253.5a15.62,15.62,0,0,0,15.6,15.6H514.9a15.62,15.62,0,0,0,15.6-15.6V147H275.6V253.5Z"
@@ -1168,19 +1156,19 @@
       <g
          class="cls-29"
          id="g126"
-         style="fill:url(#pattern167)">
+         style="fill:#000000;fill-opacity:1">
         <path
            class="cls-3"
            d="M648.7,65.7l-3.2,2.6a6.71,6.71,0,0,0-2,4.5h9.8V70.2H647a6.71,6.71,0,0,1,2.1-1.9,12.47,12.47,0,0,0,2.7-2.1,4.77,4.77,0,0,0,1.3-3.3,4.22,4.22,0,0,0-1.4-3.3,5.13,5.13,0,0,0-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7q0-2.7,2.1-2.7a1.83,1.83,0,0,1,2,2.1A3.5,3.5,0,0,1,648.7,65.7Z"
            transform="translate(0.1 0)"
            id="path125"
-           style="fill:url(#pattern167)" />
+           style="fill:#000000;fill-opacity:1" />
         <path
            class="cls-3"
            d="M631.1,67.2h3c1.5,0,2.3.6,2.4,1.9s.2,2.5.3,3.8h3.3v-.4c-.5-.2-.7-.7-.7-1.5a2.81,2.81,0,0,1,.1-.8v-.7a3.56,3.56,0,0,0-1.8-3.5,3.25,3.25,0,0,0,2.2-3.4,3.54,3.54,0,0,0-1.3-3,4.72,4.72,0,0,0-3.2-1h-7.3V72.9h3Zm0-6.3h3.7c1.4,0,2.1.6,2.1,1.9s-.8,1.9-2.3,1.9h-3.5Z"
            transform="translate(0.1 0)"
            id="path126"
-           style="fill:url(#pattern167)" />
+           style="fill:#000000;fill-opacity:1" />
       </g>
     </g>
     <g
@@ -1211,12 +1199,12 @@
            d="M173.3,65.7l-3.2,2.6a6.71,6.71,0,0,0-2,4.5h9.8V70.2h-6.2a6.71,6.71,0,0,1,2.1-1.9,12.47,12.47,0,0,0,2.7-2.1,4.77,4.77,0,0,0,1.3-3.3,4.22,4.22,0,0,0-1.4-3.3,5.13,5.13,0,0,0-3.5-1.2c-3.1,0-4.7,1.7-4.7,5h2.7q0-2.7,2.1-2.7a1.83,1.83,0,0,1,2,2.1A3.63,3.63,0,0,1,173.3,65.7Z"
            transform="translate(0.1 0)"
            id="path129"
-           style="fill:url(#pattern167)" />
+           style="fill:#000000;fill-opacity:1" />
         <polygon
            class="cls-3"
            points="164.9 70.1 157.8 70.1 157.8 58.5 154.8 58.5 154.8 72.8 164.9 72.8 164.9 70.1"
            id="polygon129"
-           style="fill:url(#pattern167)" />
+           style="fill:#000000;fill-opacity:1" />
       </g>
     </g>
   </g>
